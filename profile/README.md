@@ -108,18 +108,6 @@ We believe in the power of **open source** and **community collaboration**. Here
 
 ---
 
-## 🗺️ Roadmap & Development
-
-We organize our development on our [**GitHub Project Board**](https://github.com/users/RClone-Manager/projects/6). Track our progress, see what's coming next, and influence the direction of the project.
-
-**Current Focus:**
-- 🔜 Enhanced job monitoring and progress tracking
-- 🌍 Multi-language support (i18n)
-- 📱 Mobile app versions
-- 🔌 Plugin system for extensibility
-
----
-
 ## 📬 Stay Connected
 
 ### Get Help & Support
