@@ -1,51 +1,35 @@
-<h1 align="center">
-  <br>
-  RClone Manager
-  <br>
-</h1>
-
 <p align="center">
-  <b>Building powerful, modern tools for cloud storage management</b><br>
-  <i>Making Rclone accessible to everyone through beautiful, intuitive interfaces</i>
+  <img src="https://github.com/Zarestia-Dev/.github/blob/main/profile/Zarestia.png" alt="Zarestia-Dev Logo" width="150">
 </p>
 
+<h1 align="center">Welcome to Zarestia-Dev</h1>
+
 <p align="center">
-  <a href="https://github.com/RClone-Manager/rclone-manager">
-    <img src="https://img.shields.io/github/stars/RClone-Manager/rclone-manager?style=flat-square&label=⭐%20Stars" alt="Stars">
-  </a>
-  <a href="https://github.com/RClone-Manager/rclone-manager/releases">
-    <img src="https://img.shields.io/github/v/release/RClone-Manager/rclone-manager?style=flat-square&label=📦%20Latest%20Release" alt="Latest Release">
-  </a>
-  <a href="https://github.com/RClone-Manager/rclone-manager/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/RClone-Manager/rclone-manager?style=flat-square&label=📜%20License" alt="License">
-  </a>
+  <b>Building intuitive, cross-platform desktop applications with modern frameworks.</b><br>
+  <i>We craft powerful, user-friendly tools that make complex tasks simple and beautiful.</i>
 </p>
 
 ---
 
-## 🌟 Welcome to RClone Manager
+## 🚀 Our Flagship Project
 
-We're on a mission to **revolutionize cloud storage management** by creating beautiful, powerful, and user-friendly tools built on top of [Rclone](https://rclone.org/) — the Swiss Army knife of cloud storage.
+Our work is focused on creating high-performance, cross-platform software. Our first major project is the RClone Manager.
 
-### 🎯 What We Do
+### 🎨 RClone Manager Desktop
 
-**RClone Manager** provides a modern, cross-platform GUI that transforms Rclone's powerful command-line capabilities into an intuitive visual experience. Whether you're:
+The definitive cross-platform GUI application for managing [Rclone](https://rclone.org/) remotes with style and ease. It transforms Rclone's powerful command-line capabilities into an intuitive visual experience.
 
-- 📁 Managing multiple cloud storage accounts
-- 🔄 Syncing files across platforms
-- 💾 Mounting remote drives as local storage
-- 🔐 Securing your cloud data with encryption
-- 🚀 Automating backup and transfer workflows
-
-...we make it **simple, beautiful, and accessible** for everyone.
-
----
-
-## 🚀 Our Projects
-
-### 🎨 [RClone Manager Desktop](https://github.com/RClone-Manager/rclone-manager)
-
-The flagship **cross-platform GUI application** for managing Rclone remotes with style and ease.
+<p align="center">
+  <a href="https://github.com/Zarestia-Dev/rclone-manager">
+    <img src="https://img.shields.io/github/stars/Zarestia-Dev/rclone-manager?style=flat-square&label=⭐%20Stars" alt="Stars">
+  </a>
+  <a href="https://github.com/Zarestia-Dev/rclone-manager/releases">
+    <img src="https://img.shields.io/github/v/release/Zarestia-Dev/rclone-manager?style=flat-square&label=📦%20Latest%20Release" alt="Latest Release">
+  </a>
+  <a href="https://github.com/Zarestia-Dev/rclone-manager/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Zarestia-Dev/rclone-manager?style=flat-square&label=📜%20License" alt="License">
+  </a>
+</p>
 
 **Key Features:**
 - ✨ Beautiful GTK-inspired interface with light/dark themes
@@ -53,84 +37,43 @@ The flagship **cross-platform GUI application** for managing Rclone remotes with
 - 📁 Mount remotes as local drives (Linux, Windows, macOS)
 - 🔄 Sync, copy, move, and bidirectional sync operations
 - 📊 Real-time job monitoring and transfer tracking
-- 🖥️ System tray integration for quick access
 - 🌍 Full ARM architecture support
 
-**Tech Stack:** Angular 20 + Tauri 2 · Rust · Angular Material
+**Tech Stack:** Tauri · Angular · Rust · Angular Material
 
-[**📥 Download Latest Release**](https://github.com/RClone-Manager/rclone-manager/releases) | [**📖 Documentation**](https://github.com/RClone-Manager/rclone-manager#readme)
+[**➡️ View Repository**](https://github.com/Zarestia-Dev/rclone-manager) | [**📥 Download Latest Release**](https://github.com/Zarestia-Dev/rclone-manager/releases)
 
 ---
 
-## 🌍 Platform Support
+## 🛠️ Our Technology Focus
 
-Our tools work seamlessly across:
+We specialize in building modern, maintainable, and high-performance applications using a carefully selected tech stack:
 
-<p align="center">
-  🐧 <b>Linux</b> (x64 + ARM) • 🪟 <b>Windows</b> (x64 + ARM) • 🍎 <b>macOS</b> (Intel + Apple Silicon)
-</p>
----
-
-## 💡 Why RClone Manager?
-
-### For Users
-- **No Command Line Required** – Intuitive GUI for all operations
-- **Unified Interface** – Manage all your cloud storage in one place
-- **Powerful Yet Simple** – Advanced features without complexity
-- **Privacy First** – Your data stays between you and your cloud providers
-
-### For Developers
-- **Modern Tech Stack** – Built with cutting-edge tools and frameworks
-- **Open Source** – Fully transparent, GPL-licensed code
-- **Active Development** – Regular updates and new features
-- **Community Driven** – Your contributions shape the future
+- **Frontend:** **Angular** for robust and scalable user interfaces.
+- **Backend/Core:** **Rust** for its performance, safety, and reliability.
+- **Framework:** **Tauri** to create lightweight, secure, and cross-platform desktop apps.
 
 ---
 
 ## 🤝 Get Involved
 
-We believe in the power of **open source** and **community collaboration**. Here's how you can be part of our journey:
+We believe in the power of **open source** and **community collaboration**. Whether you're a user or a developer, there are many ways to be part of our journey:
 
-### 🌟 For Everyone
-- ⭐ **Star our repositories** to show support and stay updated
-- 💬 **Join discussions** to share ideas and help others
-- 🐛 **Report bugs** to help us improve
-- 📢 **Spread the word** about RClone Manager
+- ⭐ **Star our repositories** to show your support and stay updated.
+- 💬 **Join discussions** on our project pages to share ideas and help others.
+- 🐛 **Report bugs** by creating issues in the relevant project repository.
+- 🔧 **Contribute code** by fixing bugs or adding new features.
 
-### 👨‍💻 For Developers
-- 🔧 **Contribute code** – Fix bugs or add features
-- 📖 **Improve docs** – Help make our documentation better
-- 🌍 **Translate** – Make RClone Manager available in your language
-- 🎨 **Design** – Contribute to UI/UX improvements
-
-[**Start Contributing →**](https://github.com/RClone-Manager/rclone-manager/blob/master/CONTRIBUTING.md)
+Explore our project repositories to find out how you can contribute!
 
 ---
 
-## 📬 Stay Connected
+## 📜 Licensing
 
-### Get Help & Support
-- 💬 [Discussions](https://github.com/RClone-Manager/rclone-manager/discussions) – Ask questions and connect with the community
-- 🐛 [Issue Tracker](https://github.com/RClone-Manager/rclone-manager/issues) – Report bugs or request features
-- 📖 [Wiki](https://github.com/RClone-Manager/rclone-manager/wiki) – Guides and tutorials
-
-### Latest Updates
-- 📦 [Releases](https://github.com/RClone-Manager/rclone-manager/releases) – Download the latest versions
-- 🔔 Enable notifications to be the first to know about new releases
-
----
-
-## 📜 License
-
-All our projects are licensed under **[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)**, ensuring they remain free and open source forever.
+All our flagship projects are licensed under **[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)**, ensuring they remain free and open-source forever.
 
 ---
 
 <p align="center">
-  <b>Made with ❤️ by the RClone Manager Community</b><br>
-  <sub>Powered by Rclone | Built with passion for cloud storage</sub>
-</p>
-
-<p align="center">
-  <i>⭐ Star our projects • 👀 Watch for updates • 🤝 Join the community</i>
+  <b>Made with ❤️ by the Zarestia-Dev Community</b>
 </p>
