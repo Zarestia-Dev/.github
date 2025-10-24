@@ -21,13 +21,13 @@ The definitive cross-platform GUI application for managing [Rclone](https://rclo
 
 <p align="center">
   <a href="https://github.com/Zarestia-Dev/rclone-manager">
-    <img src="https://img.shields.io/github/stars/Zarestia-Dev/rclone-manager?style=flat-square&label=⭐%20Stars" alt="Stars">
+    <img src="https://img.shields.io/github/stars/Zarestia-Dev/rclone-manager" alt="Stars">
   </a>
   <a href="https://github.com/Zarestia-Dev/rclone-manager/releases">
-    <img src="https://img.shields.io/github/v/release/Zarestia-Dev/rclone-manager?style=flat-square&label=📦%20Latest%20Release" alt="Latest Release">
+    <img src="https://img.shields.io/github/v/release/Zarestia-Dev/rclone-manager" alt="Latest Release">
   </a>
   <a href="https://github.com/Zarestia-Dev/rclone-manager/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Zarestia-Dev/rclone-manager?style=flat-square&label=📜%20License" alt="License">
+    <img src="https://img.shields.io/github/license/Zarestia-Dev/rclone-manager" alt="License">
   </a>
 </p>
 
